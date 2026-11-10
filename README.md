@@ -3,12 +3,12 @@
 </p>
 
 ## 👨‍💻 Über mich
-Erfahrener IT-Experte mit **10 Jahren Berufserfahrung**, spezialisiert auf den Betrieb haha, fundiertem IT-Support und Automatisierung mit Python. Stark im Lösen komplexer technischer Probleme und der Sicherstellung eines reibungslosen Systembetriebs.
+Erfahrener IT-Experte mit **1 Jahr Berufserfahrung**, spezialisiert auf den Betrieb haha, fundiertem IT-Support und Automatisierung mit Python. Stark im Lösen komplexer technischer Probleme und der Sicherstellung eines reibungslosen Systembetriebs.
 
 ---
 
 ## 🛠 Kenntnisse & Technologien
-* **Rechenzentrum & Infrastruktur:** Data Center Operations, Hardware-Management, Server-Installation, Netzwerktechnik
+* **Rechenzentrum & Infrastruktur:**  Hardware-Management, Server-Installation, Netzwerktechnik
 * **Programmierung & Scripting:** Python (für Automatisierung & Skripte)
 * **IT-Support & Betrieb:** 1st-, 2nd- & 3rd-Level-Support, Troubleshooting, Ticket-Systeme, Betriebssysteme (Windows/Linux)
 * **Tools & Version Control:** Git, GitHub
@@ -34,6 +34,6 @@ Erfahrener IT-Experte mit **10 Jahren Berufserfahrung**, spezialisiert auf den B
 
 ---
 
-## 🚀 GitHub Projekte
+## 🚀 Meine Projekte
 * *Hier können Sie später Ihre Python-Skripte oder Projekte verlinken, an denen Sie arbeiten.*
 
