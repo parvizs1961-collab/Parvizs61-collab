@@ -1,4 +1,4 @@
-## 👨‍💻 Über mich
+images.jpeg## 👨‍💻 Über mich
 Erfahrener IT-Experte mit **10 Jahren Berufserfahrung**, spezialisiert auf den Betrieb von Rechenzentren (Data Centers), fundiertem IT-Support und Automatisierung mit Python. Stark im Lösen komplexer technischer Probleme und der Sicherstellung eines reibungslosen Systembetriebs.
 
 ---
