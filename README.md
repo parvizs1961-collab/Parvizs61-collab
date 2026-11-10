@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images.jpeg" width="150" style="border-radius: 100%;">
+  <img src="images.jpeg" width="150" style="border-radius: 50%;">
 </p>
 
 ## 👨‍💻 Über mich
